@@ -2,7 +2,7 @@ let age: number = 9;
 console.log("Age ",age);
 if (age<12){
     console.log("Movie Price: $5");
-}else if(age<=60);{
+}else if(age<=60){
     console.log("Movie Price: $10");
-}else
-    console.log("Moive Price: $7");
+}else{
+    console.log("Moive Price: $7");}
